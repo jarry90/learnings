@@ -1,8 +1,9 @@
-Credit https://github.com/tchapi/markdown-cheatsheet
+Credit <https://github.com/tchapi/markdown-cheatsheet>
 Markdown Cheatsheet<a name="TOP"></a>
 ===================
 
-- - - - 
+- - - -
+
 # Heading 1 #
 
     Markup :  # Heading 1 #
@@ -27,7 +28,6 @@ Markdown Cheatsheet<a name="TOP"></a>
 
     Markup :  #### Heading 4 ####
 
-
 Common text
 
     Markup :  Common text
@@ -48,12 +48,12 @@ ___Strong emphasized text___
 
     Markup :  ___Strong emphasized text___ or ***Strong emphasized text***
 
-[Named Link](http://www.google.fr/ "Named link title") and http://www.google.fr/ or <http://example.com/>
+[Named Link](http://www.google.fr/ "Named link title") and <http://www.google.fr/> or <http://example.com/>
 
     Markup :  [Named Link](http://www.google.fr/ "Named link title") and http://www.google.fr/ or <http://example.com/>
 
 [heading-1](#heading-1 "Goto heading-1")
-    
+
     Markup: [heading-1](#heading-1 "Goto heading-1")
 
 Table, like this one :
@@ -123,8 +123,8 @@ Content Cell  | Content Cell | Content Cell
              ```
 
 * Bullet list
-    * Nested bullet
-        * Sub-nested bullet etc
+  * Nested bullet
+    * Sub-nested bullet etc
 * Bullet list item 2
 
 ~~~
@@ -153,16 +153,16 @@ Content Cell  | Content Cell | Content Cell
           2. Which is numbered
 ~~~
 
-- [ ] An uncompleted task
-- [x] A completed task
+* [ ] An uncompleted task
+* [x] A completed task
 
 ~~~
  Markup : - [ ] An uncompleted task
           - [x] A completed task
 ~~~
 
-- [ ] An uncompleted task
-    - [ ] A subtask
+* [ ] An uncompleted task
+  * [ ] A subtask
 
 ~~~
  Markup : - [ ] An uncompleted task
@@ -210,7 +210,7 @@ Foldable text:
 Link to a specific part of the page:
 
 [Go To TOP](#TOP)
-   
+
     Markup : [text goes here](#section_name)
               section_title<a name="section_name"></a>    
 
@@ -246,4 +246,3 @@ Emoji:
 :exclamation: Use emoji icons to enhance text. :+1:  Look up emoji codes at [emoji-cheat-sheet.com](http://emoji-cheat-sheet.com/)
 
     Markup : Code appears between colons :EMOJICODE:
-
