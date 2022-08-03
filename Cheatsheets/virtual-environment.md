@@ -1,9 +1,9 @@
 # Virtual Environment #
 
-# Create Virtual Environment #
+### Create Virtual Environment ###
 
 `virtualenv <name>`
 
-# Run Virtual Environment #
+### Run Virtual Environment ###
 
 `<name>\scripts\activate`

@@ -10,6 +10,16 @@
 
 ## Templates ##
 
+[django Documentation](https://docs.djangoproject.com/en/4.0/topics/templates/)
+
+### Tags ###
+
+`{{ variable }}`
+
+### Variables ###
+
+`{% logic %}`
+
 ### main.html ###
 
 ```
