@@ -1,8 +1,12 @@
 # Django #
 
-## External cheatsheet to review
+### External cheatsheet to review
 
 https://dev.to/ericchapman/my-beloved-django-cheat-sheet-2056
+
+### Resourse for Class Based Views
+
+(http://ccbv.co.uk/)
 
 ---
 
@@ -48,6 +52,4 @@ https://dev.to/ericchapman/my-beloved-django-cheat-sheet-2056
 {% endblock %}
 ```
 
-## Resourse for Class Based Views
 
-(http://ccbv.co.uk/)
