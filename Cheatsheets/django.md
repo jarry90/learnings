@@ -1,8 +1,10 @@
 # Django #
 
-### External cheatsheet to review
+### External cheatsheets to review
 
 https://dev.to/ericchapman/my-beloved-django-cheat-sheet-2056
+
+https://www.codewithharry.com/blogpost/django-cheatsheet/
 
 ### Resourse for Class Based Views
 
