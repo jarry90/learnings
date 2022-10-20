@@ -1,5 +1,11 @@
 # Django #
 
+## External cheatsheet to review
+
+https://dev.to/ericchapman/my-beloved-django-cheat-sheet-2056
+
+---
+
 ## Setup project ##
 
 `django-admin startproject <name>`
@@ -42,6 +48,6 @@
 {% endblock %}
 ```
 
-### Resourse for Class Based Views
+## Resourse for Class Based Views
 
 (http://ccbv.co.uk/)
