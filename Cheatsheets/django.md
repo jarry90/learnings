@@ -41,3 +41,7 @@
 
 {% endblock %}
 ```
+
+### Resourse for Class Based Views
+
+(http://ccbv.co.uk/)
